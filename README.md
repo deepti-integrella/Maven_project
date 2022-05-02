@@ -1,1 +1,3 @@
-# search_project
+# maven-project
+
+Simple Maven Project
